@@ -11,6 +11,7 @@
   U formi se nalazi 11 buttona od toga 9 za potrebe igrice,
   a preostala 2 za Restart igre i Izlaz</p>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/c.jpg"></img>
+<br>
 <p>Na stranama se također nalaze informacije o pobjedama dvaju igraca.Igraca X i igraca O.
 Po defaultu setovano na 0.</p>
 <br>

@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 <p><b>U prilozenom se nalazi jednostavna c# aplikacija naprevljena u vidu vjezbi za predmet PRIII.
-  Predmetni profesor: <i>dr.sc.Denis Music</i> </b></p>
+  Predmetni profesor: <i>dr.sc.Denis Mušić</i> </b></p>
 <h2>Startanje aplikacije</h2>
 <p>Na pocetku igrice imamo dva pop up prozora sa kratkom porukom i uputstvom koji igrac igra prvi...</p>
 <p>Dobrodoslica</p>
@@ -23,3 +23,16 @@ Po defaultu setovano na 0.</p>
 </p>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/d.jpg"></img>
 <br>
+<img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/e.jpg"></img>
+<br>
+<img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/f.jpg"></img>
+<br>
+<img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/g.jpg"></img>
+<br>
+<img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/h.jpg"></img>
+<br>
+<img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/i.jpg"></img>
+<br>
+
+
+

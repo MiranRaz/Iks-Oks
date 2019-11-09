@@ -27,10 +27,13 @@ Po defaultu setovano na 0.</p>
 <br>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/f.jpg"></img>
 <br>
+<p>Nakon pobjede odredjenog igraca ispisa ce se poruka.Klikom OK se vracamo na pocetak a brojac pobjeda se povecava.</p>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/g.jpg"></img>
 <br>
+<p>Pobjeda je povecana za igraca O</p>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/h.jpg"></img>
 <br>
+<p>Igrica se nastavlja...</p>
 <img src="https://github.com/MiranRaz/Tic-Tac-Toe/blob/master/app%20images/i.jpg"></img>
 <br>
 

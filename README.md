@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-<p><b>U prilozenom se nalazi jednostavna c# aplikacija naprevljena u vidu vjezbi za predmet PRIII.
+<p><b>U prilozenom se nalazi jednostavna c# aplikacija napravljena u vidu vjezbi za predmet PRIII.
   Predmetni profesor: <i>dr.sc.Denis Mušić</i> </b></p>
 <h2>Startanje aplikacije</h2>
 <p>Na pocetku igrice imamo dva pop up prozora sa kratkom porukom i uputstvom koji igrac igra prvi...</p>
